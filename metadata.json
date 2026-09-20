@@ -1,0 +1,6 @@
+{
+  "name": "三上数学「一天的时间」互动探索教程",
+  "description": "专为小学生设计的「一天的时间与经过时间」互动解题教程，包含直观时间轴、双圈时钟、退位计算模拟与陷阱拆解，降低认知负荷，循序渐进掌握解题方法。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
